@@ -1,2 +1,5 @@
-# springboot-essentials
-SpringBoot Essentials Project
+# API-REST
+SpringBoot Essentials Project.
+Project made for learning.
+
+API with GET, POST, PUT and DELETE methods.
