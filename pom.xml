@@ -40,6 +40,14 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		<dependency> //DATA JPA
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-jpa</artifactId>
+		</dependency>
+		<dependency> //MySQL
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
